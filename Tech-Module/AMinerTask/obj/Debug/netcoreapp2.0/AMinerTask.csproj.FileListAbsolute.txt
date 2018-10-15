@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.pdb
