@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\bin\Debug\netcoreapp2.0\PairsByDifference.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\bin\Debug\netcoreapp2.0\PairsByDifference.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\bin\Debug\netcoreapp2.0\PairsByDifference.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\bin\Debug\netcoreapp2.0\PairsByDifference.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\bin\Debug\netcoreapp2.0\PairsByDifference.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\obj\Debug\netcoreapp2.0\PairsByDifference.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\obj\Debug\netcoreapp2.0\PairsByDifference.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\obj\Debug\netcoreapp2.0\PairsByDifference.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\obj\Debug\netcoreapp2.0\PairsByDifference.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Arrays\Arrays\PairsByDifference\obj\Debug\netcoreapp2.0\PairsByDifference.pdb
