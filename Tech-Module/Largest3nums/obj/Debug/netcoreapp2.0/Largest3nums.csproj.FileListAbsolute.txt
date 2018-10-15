@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\bin\Debug\netcoreapp2.0\Largest3nums.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\bin\Debug\netcoreapp2.0\Largest3nums.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\bin\Debug\netcoreapp2.0\Largest3nums.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\bin\Debug\netcoreapp2.0\Largest3nums.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\bin\Debug\netcoreapp2.0\Largest3nums.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\obj\Debug\netcoreapp2.0\Largest3nums.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\obj\Debug\netcoreapp2.0\Largest3nums.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\obj\Debug\netcoreapp2.0\Largest3nums.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\obj\Debug\netcoreapp2.0\Largest3nums.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Largest3nums\obj\Debug\netcoreapp2.0\Largest3nums.pdb

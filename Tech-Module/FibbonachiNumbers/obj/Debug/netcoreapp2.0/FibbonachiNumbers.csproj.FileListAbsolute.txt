@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\bin\Debug\netcoreapp2.0\FibbonachiNumbers.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\bin\Debug\netcoreapp2.0\FibbonachiNumbers.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\bin\Debug\netcoreapp2.0\FibbonachiNumbers.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\bin\Debug\netcoreapp2.0\FibbonachiNumbers.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\bin\Debug\netcoreapp2.0\FibbonachiNumbers.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\obj\Debug\netcoreapp2.0\FibbonachiNumbers.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\obj\Debug\netcoreapp2.0\FibbonachiNumbers.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\obj\Debug\netcoreapp2.0\FibbonachiNumbers.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\obj\Debug\netcoreapp2.0\FibbonachiNumbers.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\obj\Debug\netcoreapp2.0\FibbonachiNumbers.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\FibbonachiNumbers\obj\Debug\netcoreapp2.0\FibbonachiNumbers.pdb
