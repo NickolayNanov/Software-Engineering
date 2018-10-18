@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\bin\Debug\netcoreapp2.0\ReplaceAtagsHtml.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\bin\Debug\netcoreapp2.0\ReplaceAtagsHtml.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\bin\Debug\netcoreapp2.0\ReplaceAtagsHtml.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\bin\Debug\netcoreapp2.0\ReplaceAtagsHtml.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\bin\Debug\netcoreapp2.0\ReplaceAtagsHtml.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\obj\Debug\netcoreapp2.0\ReplaceAtagsHtml.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\obj\Debug\netcoreapp2.0\ReplaceAtagsHtml.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\obj\Debug\netcoreapp2.0\ReplaceAtagsHtml.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\obj\Debug\netcoreapp2.0\ReplaceAtagsHtml.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\obj\Debug\netcoreapp2.0\ReplaceAtagsHtml.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\ReplaceAtagsHtml\obj\Debug\netcoreapp2.0\ReplaceAtagsHtml.pdb

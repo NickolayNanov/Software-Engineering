@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\bin\Debug\netcoreapp2.0\Extract Emails.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Extract Emails\obj\Debug\netcoreapp2.0\Extract Emails.pdb

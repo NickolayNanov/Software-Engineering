@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\bin\Debug\netcoreapp2.0\Camera Viwe.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\bin\Debug\netcoreapp2.0\Camera Viwe.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\bin\Debug\netcoreapp2.0\Camera Viwe.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\bin\Debug\netcoreapp2.0\Camera Viwe.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\bin\Debug\netcoreapp2.0\Camera Viwe.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\obj\Debug\netcoreapp2.0\Camera Viwe.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\obj\Debug\netcoreapp2.0\Camera Viwe.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\obj\Debug\netcoreapp2.0\Camera Viwe.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\obj\Debug\netcoreapp2.0\Camera Viwe.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Camera Viwe\obj\Debug\netcoreapp2.0\Camera Viwe.pdb

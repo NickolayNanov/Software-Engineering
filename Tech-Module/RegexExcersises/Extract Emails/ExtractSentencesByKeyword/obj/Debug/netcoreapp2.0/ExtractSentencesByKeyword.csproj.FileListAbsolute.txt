@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.pdb

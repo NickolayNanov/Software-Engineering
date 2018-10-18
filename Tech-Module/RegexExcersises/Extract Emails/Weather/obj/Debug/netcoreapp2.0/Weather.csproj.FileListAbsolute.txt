@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\obj\Debug\netcoreapp2.0\Weather.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexExcersises\Extract Emails\Weather\obj\Debug\netcoreapp2.0\Weather.csprojResolveAssemblyReference.cache
