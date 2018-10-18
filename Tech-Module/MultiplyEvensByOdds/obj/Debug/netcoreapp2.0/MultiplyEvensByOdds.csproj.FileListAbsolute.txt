@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.csprojResolveAssemblyReference.cache

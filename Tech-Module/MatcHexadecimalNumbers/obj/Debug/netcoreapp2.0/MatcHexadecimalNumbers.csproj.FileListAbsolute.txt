@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatcHexadecimalNumbers.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatcHexadecimalNumbers.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatcHexadecimalNumbers.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatcHexadecimalNumbers.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatcHexadecimalNumbers.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatcHexadecimalNumbers.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatcHexadecimalNumbers.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatcHexadecimalNumbers.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatcHexadecimalNumbers.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatcHexadecimalNumbers.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatcHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatcHexadecimalNumbers.pdb

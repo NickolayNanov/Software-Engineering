@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\bin\Debug\netcoreapp2.0\MatchPhoneNumber.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\bin\Debug\netcoreapp2.0\MatchPhoneNumber.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\bin\Debug\netcoreapp2.0\MatchPhoneNumber.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\bin\Debug\netcoreapp2.0\MatchPhoneNumber.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\bin\Debug\netcoreapp2.0\MatchPhoneNumber.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\obj\Debug\netcoreapp2.0\MatchPhoneNumber.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\obj\Debug\netcoreapp2.0\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\obj\Debug\netcoreapp2.0\MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\obj\Debug\netcoreapp2.0\MatchPhoneNumber.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\obj\Debug\netcoreapp2.0\MatchPhoneNumber.dll
+D:\Tech-Modult_C#\Programming Fundamentals\RegexLab\Regex\MatchPhoneNumber\obj\Debug\netcoreapp2.0\MatchPhoneNumber.pdb

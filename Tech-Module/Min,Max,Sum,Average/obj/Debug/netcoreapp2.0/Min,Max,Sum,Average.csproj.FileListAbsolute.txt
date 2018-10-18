@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\bin\Debug\netcoreapp2.0\Min,Max,Sum,Average.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\bin\Debug\netcoreapp2.0\Min,Max,Sum,Average.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\bin\Debug\netcoreapp2.0\Min,Max,Sum,Average.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\bin\Debug\netcoreapp2.0\Min,Max,Sum,Average.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\bin\Debug\netcoreapp2.0\Min,Max,Sum,Average.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\obj\Debug\netcoreapp2.0\Min,Max,Sum,Average.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\obj\Debug\netcoreapp2.0\Min,Max,Sum,Average.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\obj\Debug\netcoreapp2.0\Min,Max,Sum,Average.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\obj\Debug\netcoreapp2.0\Min,Max,Sum,Average.dll
+D:\Tech-Modult_C#\Programming Fundamentals\Dictionaries, Linq, Lambda Expressions\Dictionaries\Min,Max,Sum,Average\obj\Debug\netcoreapp2.0\Min,Max,Sum,Average.pdb

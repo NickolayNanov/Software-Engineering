@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\bin\Debug\netcoreapp2.0\Hello,Name!.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\bin\Debug\netcoreapp2.0\Hello,Name!.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\bin\Debug\netcoreapp2.0\Hello,Name!.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\bin\Debug\netcoreapp2.0\Hello,Name!.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\bin\Debug\netcoreapp2.0\Hello,Name!.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\obj\Debug\netcoreapp2.0\Hello,Name!.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\obj\Debug\netcoreapp2.0\Hello,Name!.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\obj\Debug\netcoreapp2.0\Hello,Name!.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\obj\Debug\netcoreapp2.0\Hello,Name!.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\obj\Debug\netcoreapp2.0\Hello,Name!.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\obj\Debug\netcoreapp2.0\Hello,Name!.pdb
