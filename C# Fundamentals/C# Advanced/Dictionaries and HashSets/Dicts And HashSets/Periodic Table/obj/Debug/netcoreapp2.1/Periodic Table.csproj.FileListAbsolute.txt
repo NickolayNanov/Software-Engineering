@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.deps.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.runtimeconfig.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.pdb
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.pdb

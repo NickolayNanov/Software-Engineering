@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\obj\Debug\netcoreapp2.1\Dicts And HashSets.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\obj\Debug\netcoreapp2.1\Dicts And HashSets.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\obj\Debug\netcoreapp2.1\Dicts And HashSets.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\obj\Debug\netcoreapp2.1\Dicts And HashSets.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\bin\Debug\netcoreapp2.1\Dicts And HashSets.deps.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\bin\Debug\netcoreapp2.1\Dicts And HashSets.runtimeconfig.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\bin\Debug\netcoreapp2.1\Dicts And HashSets.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\bin\Debug\netcoreapp2.1\Dicts And HashSets.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\bin\Debug\netcoreapp2.1\Dicts And HashSets.pdb
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\obj\Debug\netcoreapp2.1\Dicts And HashSets.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Dicts And HashSets\obj\Debug\netcoreapp2.1\Dicts And HashSets.pdb
