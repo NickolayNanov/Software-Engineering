@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.deps.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.runtimeconfig.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\bin\Debug\netcoreapp2.1\Unique Usernames.pdb
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Unique Usernames\obj\Debug\netcoreapp2.1\Unique Usernames.pdb

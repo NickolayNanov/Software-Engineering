@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb
