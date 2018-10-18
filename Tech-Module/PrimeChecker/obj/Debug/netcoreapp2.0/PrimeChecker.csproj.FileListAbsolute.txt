@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebuggingExcersises\MethodsAndDebuggingExcersises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.pdb

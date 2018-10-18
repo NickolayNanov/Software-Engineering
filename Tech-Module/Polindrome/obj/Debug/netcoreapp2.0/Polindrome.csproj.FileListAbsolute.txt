@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\bin\Debug\netcoreapp2.0\Polindrome.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\bin\Debug\netcoreapp2.0\Polindrome.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\bin\Debug\netcoreapp2.0\Polindrome.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\bin\Debug\netcoreapp2.0\Polindrome.dll
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\bin\Debug\netcoreapp2.0\Polindrome.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\obj\Debug\netcoreapp2.0\Polindrome.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\obj\Debug\netcoreapp2.0\Polindrome.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\obj\Debug\netcoreapp2.0\Polindrome.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\obj\Debug\netcoreapp2.0\Polindrome.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\obj\Debug\netcoreapp2.0\Polindrome.dll
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\Polindrome\obj\Debug\netcoreapp2.0\Polindrome.pdb

@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.pdb
