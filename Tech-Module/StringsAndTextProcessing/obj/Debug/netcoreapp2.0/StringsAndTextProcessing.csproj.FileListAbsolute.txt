@@ -1,0 +1,11 @@
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp2.0\StringsAndTextProcessing.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp2.0\StringsAndTextProcessing.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp2.0\StringsAndTextProcessing.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp2.0\StringsAndTextProcessing.dll
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp2.0\StringsAndTextProcessing.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp2.0\StringsAndTextProcessing.csprojResolveAssemblyReference.cache
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp2.0\StringsAndTextProcessing.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp2.0\StringsAndTextProcessing.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp2.0\StringsAndTextProcessing.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp2.0\StringsAndTextProcessing.dll
+D:\Tech-Modult_C#\Programming Fundamentals\StringsAndTextProcessing\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp2.0\StringsAndTextProcessing.pdb

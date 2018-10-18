@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.pdb

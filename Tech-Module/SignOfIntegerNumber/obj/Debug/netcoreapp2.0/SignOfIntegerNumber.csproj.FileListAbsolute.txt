@@ -1,0 +1,10 @@
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.deps.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.dev.json
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfoInputs.cache
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfo.cs
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+D:\Tech-Modult_C#\Programming Fundamentals\MethodsAndDebugging\ConsoleApp1\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb
