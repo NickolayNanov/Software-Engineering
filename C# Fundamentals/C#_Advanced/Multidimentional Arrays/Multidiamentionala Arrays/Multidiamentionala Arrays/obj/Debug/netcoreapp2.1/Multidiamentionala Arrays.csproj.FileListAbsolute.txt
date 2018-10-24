@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Multidiamentionala Arrays.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Multidiamentionala Arrays.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Multidiamentionala Arrays.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Multidiamentionala Arrays.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Multidiamentionala Arrays.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Multidiamentionala Arrays.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Multidiamentionala Arrays.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Multidiamentionala Arrays.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Multidiamentionala Arrays.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Multidiamentionala Arrays.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Multidiamentionala Arrays.pdb

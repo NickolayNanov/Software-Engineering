@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\bin\Debug\netcoreapp2.1\Even Times.deps.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\bin\Debug\netcoreapp2.1\Even Times.runtimeconfig.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\bin\Debug\netcoreapp2.1\Even Times.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\bin\Debug\netcoreapp2.1\Even Times.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\bin\Debug\netcoreapp2.1\Even Times.pdb
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\obj\Debug\netcoreapp2.1\Even Times.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\obj\Debug\netcoreapp2.1\Even Times.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\obj\Debug\netcoreapp2.1\Even Times.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\obj\Debug\netcoreapp2.1\Even Times.dll
+D:\Softuni\C#_Advanced\Dictionaries and HashSets\Dicts And HashSets\Even Times\obj\Debug\netcoreapp2.1\Even Times.pdb

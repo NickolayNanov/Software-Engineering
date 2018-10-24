@@ -1,0 +1,16 @@
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\bin\Debug\netcoreapp2.0\Matching Brackets.deps.json
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\bin\Debug\netcoreapp2.0\Matching Brackets.runtimeconfig.json
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\bin\Debug\netcoreapp2.0\Matching Brackets.runtimeconfig.dev.json
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\bin\Debug\netcoreapp2.0\Matching Brackets.dll
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\bin\Debug\netcoreapp2.0\Matching Brackets.pdb
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.csproj.CoreCompileInputs.cache
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.AssemblyInfoInputs.cache
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.AssemblyInfo.cs
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.dll
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.pdb
+D:\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Matching Brackets\obj\Debug\netcoreapp2.0\Matching Brackets.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.deps.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.runtimeconfig.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.pdb
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.pdb

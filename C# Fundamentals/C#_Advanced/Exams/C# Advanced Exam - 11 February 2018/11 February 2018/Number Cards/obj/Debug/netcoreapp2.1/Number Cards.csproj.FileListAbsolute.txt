@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\bin\Debug\netcoreapp2.1\Number Cards.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\bin\Debug\netcoreapp2.1\Number Cards.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\bin\Debug\netcoreapp2.1\Number Cards.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\bin\Debug\netcoreapp2.1\Number Cards.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\bin\Debug\netcoreapp2.1\Number Cards.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\obj\Debug\netcoreapp2.1\Number Cards.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\obj\Debug\netcoreapp2.1\Number Cards.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\obj\Debug\netcoreapp2.1\Number Cards.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\obj\Debug\netcoreapp2.1\Number Cards.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\obj\Debug\netcoreapp2.1\Number Cards.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Number Cards\obj\Debug\netcoreapp2.1\Number Cards.csprojAssemblyReference.cache

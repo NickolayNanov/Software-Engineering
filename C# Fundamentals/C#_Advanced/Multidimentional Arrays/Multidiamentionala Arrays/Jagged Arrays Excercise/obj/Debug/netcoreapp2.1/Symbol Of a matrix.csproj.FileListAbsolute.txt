@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Symbol Of a matrix.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Symbol Of a matrix.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Symbol Of a matrix.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Symbol Of a matrix.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Symbol Of a matrix.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Symbol Of a matrix.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Symbol Of a matrix.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Symbol Of a matrix.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Symbol Of a matrix.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Symbol Of a matrix.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Symbol Of a matrix.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\bin\Debug\netcoreapp2.1\Stack Fibonacci.deps.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\bin\Debug\netcoreapp2.1\Stack Fibonacci.runtimeconfig.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\bin\Debug\netcoreapp2.1\Stack Fibonacci.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\bin\Debug\netcoreapp2.1\Stack Fibonacci.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\bin\Debug\netcoreapp2.1\Stack Fibonacci.pdb
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\obj\Debug\netcoreapp2.1\Stack Fibonacci.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\obj\Debug\netcoreapp2.1\Stack Fibonacci.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\obj\Debug\netcoreapp2.1\Stack Fibonacci.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\obj\Debug\netcoreapp2.1\Stack Fibonacci.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Stack Fibonacci\obj\Debug\netcoreapp2.1\Stack Fibonacci.pdb

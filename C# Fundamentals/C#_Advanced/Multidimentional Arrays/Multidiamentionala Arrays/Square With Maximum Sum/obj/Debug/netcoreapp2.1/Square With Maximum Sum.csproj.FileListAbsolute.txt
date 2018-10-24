@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\obj\Debug\netcoreapp2.1\Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\obj\Debug\netcoreapp2.1\Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\obj\Debug\netcoreapp2.1\Square With Maximum Sum.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\bin\Debug\netcoreapp2.1\Square With Maximum Sum.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\bin\Debug\netcoreapp2.1\Square With Maximum Sum.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\bin\Debug\netcoreapp2.1\Square With Maximum Sum.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\bin\Debug\netcoreapp2.1\Square With Maximum Sum.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\obj\Debug\netcoreapp2.1\Square With Maximum Sum.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\bin\Debug\netcoreapp2.1\Square With Maximum Sum.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\obj\Debug\netcoreapp2.1\Square With Maximum Sum.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Square With Maximum Sum\obj\Debug\netcoreapp2.1\Square With Maximum Sum.pdb

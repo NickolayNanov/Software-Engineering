@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.csprojAssemblyReference.cache

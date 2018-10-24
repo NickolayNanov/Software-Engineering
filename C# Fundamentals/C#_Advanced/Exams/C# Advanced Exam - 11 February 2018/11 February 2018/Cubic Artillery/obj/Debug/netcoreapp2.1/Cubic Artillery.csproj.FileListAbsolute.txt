@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\bin\Debug\netcoreapp2.1\Cubic Artillery.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\bin\Debug\netcoreapp2.1\Cubic Artillery.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\bin\Debug\netcoreapp2.1\Cubic Artillery.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\bin\Debug\netcoreapp2.1\Cubic Artillery.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\bin\Debug\netcoreapp2.1\Cubic Artillery.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\obj\Debug\netcoreapp2.1\Cubic Artillery.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\obj\Debug\netcoreapp2.1\Cubic Artillery.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\obj\Debug\netcoreapp2.1\Cubic Artillery.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\obj\Debug\netcoreapp2.1\Cubic Artillery.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\obj\Debug\netcoreapp2.1\Cubic Artillery.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Cubic Artillery\obj\Debug\netcoreapp2.1\Cubic Artillery.csprojAssemblyReference.cache

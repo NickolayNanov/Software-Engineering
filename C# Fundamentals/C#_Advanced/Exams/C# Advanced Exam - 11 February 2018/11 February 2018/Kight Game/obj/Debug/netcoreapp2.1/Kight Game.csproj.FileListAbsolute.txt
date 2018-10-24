@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\bin\Debug\netcoreapp2.1\Kight Game.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\bin\Debug\netcoreapp2.1\Kight Game.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\bin\Debug\netcoreapp2.1\Kight Game.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\bin\Debug\netcoreapp2.1\Kight Game.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\bin\Debug\netcoreapp2.1\Kight Game.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\obj\Debug\netcoreapp2.1\Kight Game.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\obj\Debug\netcoreapp2.1\Kight Game.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\obj\Debug\netcoreapp2.1\Kight Game.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\obj\Debug\netcoreapp2.1\Kight Game.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\obj\Debug\netcoreapp2.1\Kight Game.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Kight Game\obj\Debug\netcoreapp2.1\Kight Game.csprojAssemblyReference.cache

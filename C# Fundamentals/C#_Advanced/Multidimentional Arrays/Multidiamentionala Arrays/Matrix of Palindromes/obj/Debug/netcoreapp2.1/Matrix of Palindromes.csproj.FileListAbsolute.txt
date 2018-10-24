@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.pdb

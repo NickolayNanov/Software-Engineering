@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\bin\Debug\netcoreapp2.1\Parking Feud.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\bin\Debug\netcoreapp2.1\Parking Feud.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\bin\Debug\netcoreapp2.1\Parking Feud.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\bin\Debug\netcoreapp2.1\Parking Feud.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\bin\Debug\netcoreapp2.1\Parking Feud.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\obj\Debug\netcoreapp2.1\Parking Feud.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\obj\Debug\netcoreapp2.1\Parking Feud.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\obj\Debug\netcoreapp2.1\Parking Feud.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\obj\Debug\netcoreapp2.1\Parking Feud.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\obj\Debug\netcoreapp2.1\Parking Feud.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking Feud\obj\Debug\netcoreapp2.1\Parking Feud.pdb

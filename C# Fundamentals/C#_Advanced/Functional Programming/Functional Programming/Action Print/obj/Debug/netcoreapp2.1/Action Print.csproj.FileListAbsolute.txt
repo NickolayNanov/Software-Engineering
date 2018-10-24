@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\bin\Debug\netcoreapp2.1\Action Print.deps.json
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\bin\Debug\netcoreapp2.1\Action Print.runtimeconfig.json
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\bin\Debug\netcoreapp2.1\Action Print.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\bin\Debug\netcoreapp2.1\Action Print.dll
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\bin\Debug\netcoreapp2.1\Action Print.pdb
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\obj\Debug\netcoreapp2.1\Action Print.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\obj\Debug\netcoreapp2.1\Action Print.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\obj\Debug\netcoreapp2.1\Action Print.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\obj\Debug\netcoreapp2.1\Action Print.dll
+D:\Softuni\C#_Advanced\Functional Programming\Functional Programming\Action Print\obj\Debug\netcoreapp2.1\Action Print.pdb

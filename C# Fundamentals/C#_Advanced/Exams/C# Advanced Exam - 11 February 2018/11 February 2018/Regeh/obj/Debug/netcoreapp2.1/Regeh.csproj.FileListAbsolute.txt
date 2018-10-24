@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\obj\Debug\netcoreapp2.1\Regeh.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\obj\Debug\netcoreapp2.1\Regeh.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\obj\Debug\netcoreapp2.1\Regeh.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\bin\Debug\netcoreapp2.1\Regeh.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\bin\Debug\netcoreapp2.1\Regeh.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\bin\Debug\netcoreapp2.1\Regeh.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\bin\Debug\netcoreapp2.1\Regeh.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\bin\Debug\netcoreapp2.1\Regeh.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\obj\Debug\netcoreapp2.1\Regeh.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\obj\Debug\netcoreapp2.1\Regeh.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Regeh\obj\Debug\netcoreapp2.1\Regeh.csprojAssemblyReference.cache

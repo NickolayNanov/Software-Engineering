@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\bin\Debug\netcoreapp2.1\Target Practice.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Target Practice\obj\Debug\netcoreapp2.1\Target Practice.pdb

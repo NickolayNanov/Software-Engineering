@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\bin\Debug\netcoreapp2.1\Arrange Numbers.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\bin\Debug\netcoreapp2.1\Arrange Numbers.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\bin\Debug\netcoreapp2.1\Arrange Numbers.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\bin\Debug\netcoreapp2.1\Arrange Numbers.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\bin\Debug\netcoreapp2.1\Arrange Numbers.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\obj\Debug\netcoreapp2.1\Arrange Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\obj\Debug\netcoreapp2.1\Arrange Numbers.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\obj\Debug\netcoreapp2.1\Arrange Numbers.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\obj\Debug\netcoreapp2.1\Arrange Numbers.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Arrange Numbers\obj\Debug\netcoreapp2.1\Arrange Numbers.pdb

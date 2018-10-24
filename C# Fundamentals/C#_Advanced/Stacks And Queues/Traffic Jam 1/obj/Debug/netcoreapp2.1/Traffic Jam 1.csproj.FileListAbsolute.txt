@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\bin\Debug\netcoreapp2.1\Traffic Jam 1.deps.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\bin\Debug\netcoreapp2.1\Traffic Jam 1.runtimeconfig.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\bin\Debug\netcoreapp2.1\Traffic Jam 1.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\bin\Debug\netcoreapp2.1\Traffic Jam 1.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\bin\Debug\netcoreapp2.1\Traffic Jam 1.pdb
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\obj\Debug\netcoreapp2.1\Traffic Jam 1.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\obj\Debug\netcoreapp2.1\Traffic Jam 1.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\obj\Debug\netcoreapp2.1\Traffic Jam 1.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\obj\Debug\netcoreapp2.1\Traffic Jam 1.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\obj\Debug\netcoreapp2.1\Traffic Jam 1.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Traffic Jam 1\obj\Debug\netcoreapp2.1\Traffic Jam 1.pdb

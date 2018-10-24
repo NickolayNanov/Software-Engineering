@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Jedy Meditation.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Jedy Meditation.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Jedy Meditation.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Jedy Meditation.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Jedy Meditation.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Jedy Meditation.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Jedy Meditation.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Jedy Meditation.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Jedy Meditation.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Jedy Meditation.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Jedy Meditation.pdb

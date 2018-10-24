@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\bin\Debug\netcoreapp2.1\Parking System.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\bin\Debug\netcoreapp2.1\Parking System.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\bin\Debug\netcoreapp2.1\Parking System.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\bin\Debug\netcoreapp2.1\Parking System.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\bin\Debug\netcoreapp2.1\Parking System.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\obj\Debug\netcoreapp2.1\Parking System.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\obj\Debug\netcoreapp2.1\Parking System.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\obj\Debug\netcoreapp2.1\Parking System.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\obj\Debug\netcoreapp2.1\Parking System.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\obj\Debug\netcoreapp2.1\Parking System.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Parking System\obj\Debug\netcoreapp2.1\Parking System.csprojAssemblyReference.cache

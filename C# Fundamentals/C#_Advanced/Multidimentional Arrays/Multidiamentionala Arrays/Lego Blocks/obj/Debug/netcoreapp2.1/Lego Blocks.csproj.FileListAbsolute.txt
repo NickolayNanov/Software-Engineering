@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\bin\Debug\netcoreapp2.1\Lego Blocks.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\bin\Debug\netcoreapp2.1\Lego Blocks.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\bin\Debug\netcoreapp2.1\Lego Blocks.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\bin\Debug\netcoreapp2.1\Lego Blocks.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\bin\Debug\netcoreapp2.1\Lego Blocks.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\obj\Debug\netcoreapp2.1\Lego Blocks.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\obj\Debug\netcoreapp2.1\Lego Blocks.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\obj\Debug\netcoreapp2.1\Lego Blocks.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\obj\Debug\netcoreapp2.1\Lego Blocks.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\obj\Debug\netcoreapp2.1\Lego Blocks.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Lego Blocks\obj\Debug\netcoreapp2.1\Lego Blocks.csprojAssemblyReference.cache

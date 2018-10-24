@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\bin\Debug\netcoreapp2.1\Key Revolver.deps.json
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\bin\Debug\netcoreapp2.1\Key Revolver.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\bin\Debug\netcoreapp2.1\Key Revolver.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\bin\Debug\netcoreapp2.1\Key Revolver.dll
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\bin\Debug\netcoreapp2.1\Key Revolver.pdb
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\obj\Debug\netcoreapp2.1\Key Revolver.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\obj\Debug\netcoreapp2.1\Key Revolver.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\obj\Debug\netcoreapp2.1\Key Revolver.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\obj\Debug\netcoreapp2.1\Key Revolver.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\obj\Debug\netcoreapp2.1\Key Revolver.dll
+D:\Softuni\C#_Advanced\Exams\Exam Prep #1\ExamPrep 11FEB\ExamPrep 11FEB\obj\Debug\netcoreapp2.1\Key Revolver.pdb

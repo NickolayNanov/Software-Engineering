@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\bin\Debug\netcoreapp2.1\Jedy Code-X.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\bin\Debug\netcoreapp2.1\Jedy Code-X.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\bin\Debug\netcoreapp2.1\Jedy Code-X.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\bin\Debug\netcoreapp2.1\Jedy Code-X.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\bin\Debug\netcoreapp2.1\Jedy Code-X.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\obj\Debug\netcoreapp2.1\Jedy Code-X.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\obj\Debug\netcoreapp2.1\Jedy Code-X.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\obj\Debug\netcoreapp2.1\Jedy Code-X.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\obj\Debug\netcoreapp2.1\Jedy Code-X.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Jedy Code-X\obj\Debug\netcoreapp2.1\Jedy Code-X.pdb

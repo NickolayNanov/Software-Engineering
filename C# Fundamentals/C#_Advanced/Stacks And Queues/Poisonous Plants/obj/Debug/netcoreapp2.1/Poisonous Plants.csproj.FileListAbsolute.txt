@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.deps.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.runtimeconfig.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.pdb
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.pdb

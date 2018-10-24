@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\bin\Debug\netcoreapp2.1\Squares in Matrix.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\bin\Debug\netcoreapp2.1\Squares in Matrix.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\bin\Debug\netcoreapp2.1\Squares in Matrix.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\bin\Debug\netcoreapp2.1\Squares in Matrix.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\bin\Debug\netcoreapp2.1\Squares in Matrix.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\obj\Debug\netcoreapp2.1\Squares in Matrix.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\obj\Debug\netcoreapp2.1\Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\obj\Debug\netcoreapp2.1\Squares in Matrix.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\obj\Debug\netcoreapp2.1\Squares in Matrix.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\obj\Debug\netcoreapp2.1\Squares in Matrix.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Squares in Matrix\obj\Debug\netcoreapp2.1\Squares in Matrix.pdb

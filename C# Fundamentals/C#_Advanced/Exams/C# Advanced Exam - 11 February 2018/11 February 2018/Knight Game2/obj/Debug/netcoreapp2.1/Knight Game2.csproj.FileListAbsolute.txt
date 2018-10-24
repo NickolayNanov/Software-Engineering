@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\bin\Debug\netcoreapp2.1\Knight Game2.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\bin\Debug\netcoreapp2.1\Knight Game2.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\bin\Debug\netcoreapp2.1\Knight Game2.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\bin\Debug\netcoreapp2.1\Knight Game2.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\bin\Debug\netcoreapp2.1\Knight Game2.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\obj\Debug\netcoreapp2.1\Knight Game2.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\obj\Debug\netcoreapp2.1\Knight Game2.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\obj\Debug\netcoreapp2.1\Knight Game2.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\obj\Debug\netcoreapp2.1\Knight Game2.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\obj\Debug\netcoreapp2.1\Knight Game2.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Knight Game2\obj\Debug\netcoreapp2.1\Knight Game2.pdb

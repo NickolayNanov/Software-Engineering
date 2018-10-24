@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Jagged Arrays Excercise.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Jagged Arrays Excercise.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Jagged Arrays Excercise.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Jagged Arrays Excercise.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\bin\Debug\netcoreapp2.1\Jagged Arrays Excercise.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Jagged Arrays Excercise.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Jagged Arrays Excercise.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Jagged Arrays Excercise.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Jagged Arrays Excercise.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Arrays Excercise\obj\Debug\netcoreapp2.1\Jagged Arrays Excercise.pdb

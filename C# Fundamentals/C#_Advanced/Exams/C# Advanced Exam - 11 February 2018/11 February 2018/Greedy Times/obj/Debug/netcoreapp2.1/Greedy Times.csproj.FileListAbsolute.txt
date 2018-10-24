@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Greedy Times.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Greedy Times.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Greedy Times.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Greedy Times.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\bin\Debug\netcoreapp2.1\Greedy Times.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Greedy Times.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Greedy Times.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Greedy Times.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Greedy Times.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Greedy Times.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Greedy Times\obj\Debug\netcoreapp2.1\Greedy Times.csprojAssemblyReference.cache

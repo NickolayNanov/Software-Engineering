@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\bin\Debug\netcoreapp2.1\Jagged Array Modifies.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\bin\Debug\netcoreapp2.1\Jagged Array Modifies.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\bin\Debug\netcoreapp2.1\Jagged Array Modifies.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\bin\Debug\netcoreapp2.1\Jagged Array Modifies.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\bin\Debug\netcoreapp2.1\Jagged Array Modifies.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\obj\Debug\netcoreapp2.1\Jagged Array Modifies.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\obj\Debug\netcoreapp2.1\Jagged Array Modifies.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\obj\Debug\netcoreapp2.1\Jagged Array Modifies.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\obj\Debug\netcoreapp2.1\Jagged Array Modifies.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\obj\Debug\netcoreapp2.1\Jagged Array Modifies.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Jagged Array Modifies\obj\Debug\netcoreapp2.1\Jagged Array Modifies.csprojAssemblyReference.cache

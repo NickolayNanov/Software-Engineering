@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\bin\Debug\netcoreapp2.1\Hospital.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\bin\Debug\netcoreapp2.1\Hospital.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\bin\Debug\netcoreapp2.1\Hospital.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\obj\Debug\netcoreapp2.1\Hospital.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\obj\Debug\netcoreapp2.1\Hospital.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\obj\Debug\netcoreapp2.1\Hospital.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Hospital\obj\Debug\netcoreapp2.1\Hospital.pdb

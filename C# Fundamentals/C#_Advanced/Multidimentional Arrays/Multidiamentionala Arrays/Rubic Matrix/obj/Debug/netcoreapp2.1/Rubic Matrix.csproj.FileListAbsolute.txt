@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\bin\Debug\netcoreapp2.1\Rubic Matrix.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\bin\Debug\netcoreapp2.1\Rubic Matrix.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\bin\Debug\netcoreapp2.1\Rubic Matrix.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\bin\Debug\netcoreapp2.1\Rubic Matrix.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\bin\Debug\netcoreapp2.1\Rubic Matrix.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\obj\Debug\netcoreapp2.1\Rubic Matrix.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\obj\Debug\netcoreapp2.1\Rubic Matrix.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\obj\Debug\netcoreapp2.1\Rubic Matrix.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\obj\Debug\netcoreapp2.1\Rubic Matrix.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\obj\Debug\netcoreapp2.1\Rubic Matrix.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Rubic Matrix\obj\Debug\netcoreapp2.1\Rubic Matrix.csprojAssemblyReference.cache

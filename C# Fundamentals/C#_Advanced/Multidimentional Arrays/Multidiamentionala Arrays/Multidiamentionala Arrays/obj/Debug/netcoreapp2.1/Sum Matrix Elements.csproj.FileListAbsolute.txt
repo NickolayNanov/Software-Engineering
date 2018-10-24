@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Sum Matrix Elements.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Sum Matrix Elements.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Sum Matrix Elements.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Sum Matrix Elements.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\bin\Debug\netcoreapp2.1\Sum Matrix Elements.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Sum Matrix Elements.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Sum Matrix Elements.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Sum Matrix Elements.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Multidiamentionala Arrays\obj\Debug\netcoreapp2.1\Sum Matrix Elements.pdb

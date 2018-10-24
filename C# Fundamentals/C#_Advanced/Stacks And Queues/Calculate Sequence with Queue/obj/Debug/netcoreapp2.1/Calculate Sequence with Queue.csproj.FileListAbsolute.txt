@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\bin\Debug\netcoreapp2.1\Calculate Sequence with Queue.deps.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\bin\Debug\netcoreapp2.1\Calculate Sequence with Queue.runtimeconfig.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\bin\Debug\netcoreapp2.1\Calculate Sequence with Queue.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\bin\Debug\netcoreapp2.1\Calculate Sequence with Queue.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\bin\Debug\netcoreapp2.1\Calculate Sequence with Queue.pdb
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\obj\Debug\netcoreapp2.1\Calculate Sequence with Queue.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\obj\Debug\netcoreapp2.1\Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\obj\Debug\netcoreapp2.1\Calculate Sequence with Queue.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\obj\Debug\netcoreapp2.1\Calculate Sequence with Queue.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\obj\Debug\netcoreapp2.1\Calculate Sequence with Queue.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Calculate Sequence with Queue\obj\Debug\netcoreapp2.1\Calculate Sequence with Queue.pdb

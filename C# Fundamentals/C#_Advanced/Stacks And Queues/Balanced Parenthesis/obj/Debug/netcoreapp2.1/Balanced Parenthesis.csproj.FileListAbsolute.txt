@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.deps.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.runtimeconfig.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.pdb
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.dll
+D:\Softuni\C#_Advanced\Stacks And Queues_Legit\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.pdb

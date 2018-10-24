@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\bin\Debug\netcoreapp2.1\Champions League.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\bin\Debug\netcoreapp2.1\Champions League.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\bin\Debug\netcoreapp2.1\Champions League.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\bin\Debug\netcoreapp2.1\Champions League.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\bin\Debug\netcoreapp2.1\Champions League.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\obj\Debug\netcoreapp2.1\Champions League.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\obj\Debug\netcoreapp2.1\Champions League.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\obj\Debug\netcoreapp2.1\Champions League.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\obj\Debug\netcoreapp2.1\Champions League.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\obj\Debug\netcoreapp2.1\Champions League.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Champions League\obj\Debug\netcoreapp2.1\Champions League.pdb

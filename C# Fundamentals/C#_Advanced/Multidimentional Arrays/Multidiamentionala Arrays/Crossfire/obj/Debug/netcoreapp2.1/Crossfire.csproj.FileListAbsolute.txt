@@ -1,0 +1,10 @@
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.deps.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.runtimeconfig.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.pdb
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.dll
+D:\Softuni\C#_Advanced\Multidimentional Arrays\Multidiamentionala Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.pdb

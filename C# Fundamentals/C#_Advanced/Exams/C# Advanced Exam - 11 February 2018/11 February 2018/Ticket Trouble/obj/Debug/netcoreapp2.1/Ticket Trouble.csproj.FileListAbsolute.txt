@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\bin\Debug\netcoreapp2.1\Ticket Trouble.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\bin\Debug\netcoreapp2.1\Ticket Trouble.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\bin\Debug\netcoreapp2.1\Ticket Trouble.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\bin\Debug\netcoreapp2.1\Ticket Trouble.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\bin\Debug\netcoreapp2.1\Ticket Trouble.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\obj\Debug\netcoreapp2.1\Ticket Trouble.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\obj\Debug\netcoreapp2.1\Ticket Trouble.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\obj\Debug\netcoreapp2.1\Ticket Trouble.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\obj\Debug\netcoreapp2.1\Ticket Trouble.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\obj\Debug\netcoreapp2.1\Ticket Trouble.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Ticket Trouble\obj\Debug\netcoreapp2.1\Ticket Trouble.pdb

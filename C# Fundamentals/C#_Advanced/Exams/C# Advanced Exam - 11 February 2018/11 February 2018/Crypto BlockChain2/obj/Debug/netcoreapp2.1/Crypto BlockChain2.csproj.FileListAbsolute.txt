@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\obj\Debug\netcoreapp2.1\Crypto BlockChain2.csprojAssemblyReference.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\obj\Debug\netcoreapp2.1\Crypto BlockChain2.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\obj\Debug\netcoreapp2.1\Crypto BlockChain2.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\obj\Debug\netcoreapp2.1\Crypto BlockChain2.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\bin\Debug\netcoreapp2.1\Crypto BlockChain2.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\bin\Debug\netcoreapp2.1\Crypto BlockChain2.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\bin\Debug\netcoreapp2.1\Crypto BlockChain2.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\bin\Debug\netcoreapp2.1\Crypto BlockChain2.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\bin\Debug\netcoreapp2.1\Crypto BlockChain2.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\obj\Debug\netcoreapp2.1\Crypto BlockChain2.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Crypto BlockChain2\obj\Debug\netcoreapp2.1\Crypto BlockChain2.pdb

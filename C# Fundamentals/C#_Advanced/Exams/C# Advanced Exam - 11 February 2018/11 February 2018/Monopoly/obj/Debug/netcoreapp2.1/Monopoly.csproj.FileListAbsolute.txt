@@ -1,0 +1,11 @@
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\bin\Debug\netcoreapp2.1\Monopoly.deps.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\bin\Debug\netcoreapp2.1\Monopoly.runtimeconfig.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\bin\Debug\netcoreapp2.1\Monopoly.runtimeconfig.dev.json
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\bin\Debug\netcoreapp2.1\Monopoly.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\bin\Debug\netcoreapp2.1\Monopoly.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\obj\Debug\netcoreapp2.1\Monopoly.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\obj\Debug\netcoreapp2.1\Monopoly.AssemblyInfoInputs.cache
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\obj\Debug\netcoreapp2.1\Monopoly.AssemblyInfo.cs
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\obj\Debug\netcoreapp2.1\Monopoly.dll
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\obj\Debug\netcoreapp2.1\Monopoly.pdb
+D:\Softuni\C#_Advanced\Exams\C# Advanced Exam - 11 February 2018\11 February 2018\Monopoly\obj\Debug\netcoreapp2.1\Monopoly.csprojAssemblyReference.cache
