@@ -1,0 +1,10 @@
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\bin\Debug\netcoreapp2.1\AnimalFarm.deps.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\bin\Debug\netcoreapp2.1\AnimalFarm.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\bin\Debug\netcoreapp2.1\AnimalFarm.pdb
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\obj\Debug\netcoreapp2.1\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\obj\Debug\netcoreapp2.1\AnimalFarm.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Animal Farm\obj\Debug\netcoreapp2.1\AnimalFarm.pdb

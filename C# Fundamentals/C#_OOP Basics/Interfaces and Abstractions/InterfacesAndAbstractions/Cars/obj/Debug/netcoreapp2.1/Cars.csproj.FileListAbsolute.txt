@@ -1,0 +1,3 @@
+D:\Softuni\C#_OOP Basics\Interfaces and Abstractions\InterfacesAndAbstractions\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Interfaces and Abstractions\InterfacesAndAbstractions\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Interfaces and Abstractions\InterfacesAndAbstractions\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs

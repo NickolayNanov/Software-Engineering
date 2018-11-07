@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\obj\Debug\netcoreapp2.1\ClassBox.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\bin\Debug\netcoreapp2.1\ClassBox.deps.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\bin\Debug\netcoreapp2.1\ClassBox.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\bin\Debug\netcoreapp2.1\ClassBox.pdb
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\obj\Debug\netcoreapp2.1\ClassBox.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\obj\Debug\netcoreapp2.1\ClassBox.pdb
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\Class Box\obj\Debug\netcoreapp2.1\ClassBox.csprojAssemblyReference.cache

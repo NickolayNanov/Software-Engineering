@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\bin\Debug\netcoreapp2.1\Farm.deps.json
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\bin\Debug\netcoreapp2.1\Farm.dll
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\bin\Debug\netcoreapp2.1\Farm.pdb
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\obj\Debug\netcoreapp2.1\Farm.csprojAssemblyReference.cache
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\obj\Debug\netcoreapp2.1\Farm.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\obj\Debug\netcoreapp2.1\Farm.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\obj\Debug\netcoreapp2.1\Farm.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\obj\Debug\netcoreapp2.1\Farm.dll
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Farm\obj\Debug\netcoreapp2.1\Farm.pdb

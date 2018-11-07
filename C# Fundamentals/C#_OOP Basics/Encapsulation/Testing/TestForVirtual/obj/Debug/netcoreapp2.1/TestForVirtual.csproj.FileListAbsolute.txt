@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\bin\Debug\netcoreapp2.1\TestForVirtual.deps.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\bin\Debug\netcoreapp2.1\TestForVirtual.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\bin\Debug\netcoreapp2.1\TestForVirtual.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\bin\Debug\netcoreapp2.1\TestForVirtual.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\bin\Debug\netcoreapp2.1\TestForVirtual.pdb
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\obj\Debug\netcoreapp2.1\TestForVirtual.csprojAssemblyReference.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\obj\Debug\netcoreapp2.1\TestForVirtual.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\obj\Debug\netcoreapp2.1\TestForVirtual.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\obj\Debug\netcoreapp2.1\TestForVirtual.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\obj\Debug\netcoreapp2.1\TestForVirtual.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\TestForVirtual\obj\Debug\netcoreapp2.1\TestForVirtual.pdb

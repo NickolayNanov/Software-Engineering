@@ -1,0 +1,10 @@
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.deps.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.pdb
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.pdb

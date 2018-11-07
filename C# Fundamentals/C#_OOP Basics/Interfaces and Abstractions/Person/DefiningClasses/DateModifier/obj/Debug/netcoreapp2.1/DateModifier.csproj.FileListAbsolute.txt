@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.deps.json
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.dll
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.pdb
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.csprojAssemblyReference.cache
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.dll
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.deps.json
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.dll
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.pdb
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csprojAssemblyReference.cache
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.dll
+D:\Softuni\C#_OOP Basics\Bank Account\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.pdb

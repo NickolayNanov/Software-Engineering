@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.deps.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.pdb
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.csprojAssemblyReference.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.dll
+D:\Softuni\C#_OOP Basics\Encapsulation\Testing\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.pdb

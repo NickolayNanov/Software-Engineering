@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\Softuni\C#_OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb

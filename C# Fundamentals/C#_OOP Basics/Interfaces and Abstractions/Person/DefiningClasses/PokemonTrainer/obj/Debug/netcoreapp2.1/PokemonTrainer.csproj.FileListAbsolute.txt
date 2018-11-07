@@ -1,0 +1,11 @@
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb
+D:\Softuni\C#_OOP Basics\Person\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csprojAssemblyReference.cache

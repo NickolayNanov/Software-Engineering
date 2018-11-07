@@ -1,0 +1,10 @@
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\Mordor’sCruelPlan.deps.json
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\Mordor’sCruelPlan.runtimeconfig.json
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\Mordor’sCruelPlan.runtimeconfig.dev.json
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\Mordor’sCruelPlan.dll
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\Mordor’sCruelPlan.pdb
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\Mordor’sCruelPlan.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\Mordor’sCruelPlan.AssemblyInfoInputs.cache
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\Mordor’sCruelPlan.AssemblyInfo.cs
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\Mordor’sCruelPlan.dll
+D:\Softuni\C#_OOP Basics\Inheritance\Enheritance\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\Mordor’sCruelPlan.pdb
