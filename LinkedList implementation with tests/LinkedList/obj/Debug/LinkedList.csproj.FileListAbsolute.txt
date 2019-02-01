@@ -1,0 +1,7 @@
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

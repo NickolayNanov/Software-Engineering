@@ -1,0 +1,11 @@
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.pdb
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe.config
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojAssemblyReference.cache
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CoreCompileInputs.cache
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CopyComplete
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
+D:\Softuni\Data Structures\Linear Data Structures\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb
