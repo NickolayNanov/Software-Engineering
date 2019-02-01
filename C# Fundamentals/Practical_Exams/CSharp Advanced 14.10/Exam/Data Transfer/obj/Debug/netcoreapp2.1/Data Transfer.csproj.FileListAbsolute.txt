@@ -1,0 +1,11 @@
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.deps.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.runtimeconfig.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.runtimeconfig.dev.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.dll
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.pdb
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.csprojAssemblyReference.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.csproj.CoreCompileInputs.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.AssemblyInfoInputs.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.AssemblyInfo.cs
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.dll
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.pdb

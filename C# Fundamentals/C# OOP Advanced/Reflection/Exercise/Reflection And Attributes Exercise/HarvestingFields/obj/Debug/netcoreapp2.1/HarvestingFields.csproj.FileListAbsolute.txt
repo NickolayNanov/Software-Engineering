@@ -1,0 +1,11 @@
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.deps.json
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.dll
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.csprojAssemblyReference.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.dll
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.pdb

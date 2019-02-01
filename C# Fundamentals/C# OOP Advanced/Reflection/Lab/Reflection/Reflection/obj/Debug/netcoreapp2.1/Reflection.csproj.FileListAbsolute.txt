@@ -1,0 +1,11 @@
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\bin\Debug\netcoreapp2.1\Reflection.deps.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\bin\Debug\netcoreapp2.1\Reflection.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\bin\Debug\netcoreapp2.1\Reflection.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\bin\Debug\netcoreapp2.1\Reflection.dll
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\bin\Debug\netcoreapp2.1\Reflection.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.csprojAssemblyReference.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.dll
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.pdb

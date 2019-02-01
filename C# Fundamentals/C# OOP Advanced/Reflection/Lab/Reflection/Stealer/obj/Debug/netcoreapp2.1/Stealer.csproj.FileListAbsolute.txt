@@ -1,0 +1,11 @@
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\bin\Debug\netcoreapp2.1\Stealer.deps.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\bin\Debug\netcoreapp2.1\Stealer.dll
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\bin\Debug\netcoreapp2.1\Stealer.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\obj\Debug\netcoreapp2.1\Stealer.dll
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\Stealer\obj\Debug\netcoreapp2.1\Stealer.pdb

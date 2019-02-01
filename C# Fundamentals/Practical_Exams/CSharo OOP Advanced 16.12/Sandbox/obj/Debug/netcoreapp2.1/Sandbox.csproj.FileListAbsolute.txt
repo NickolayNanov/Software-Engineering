@@ -1,0 +1,3 @@
+D:\Softuni\Practical_Exams\CSharo OOP Advanced 16.12\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.csproj.CoreCompileInputs.cache
+D:\Softuni\Practical_Exams\CSharo OOP Advanced 16.12\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.AssemblyInfoInputs.cache
+D:\Softuni\Practical_Exams\CSharo OOP Advanced 16.12\Sandbox\obj\Debug\netcoreapp2.1\Sandbox.AssemblyInfo.cs

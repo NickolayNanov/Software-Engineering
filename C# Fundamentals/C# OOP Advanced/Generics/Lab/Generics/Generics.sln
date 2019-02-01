@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOfT", "BoxOfT\BoxOfT.csproj", "{B2C7E157-3FD8-4612-8EB2-EEF168A499C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericArrayCreator", "GenericArrayCreator\GenericArrayCreator.csproj", "{FAC79412-4D98-4D55-8075-DC1189CC9791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C7E157-3FD8-4612-8EB2-EEF168A499C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C7E157-3FD8-4612-8EB2-EEF168A499C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C7E157-3FD8-4612-8EB2-EEF168A499C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C7E157-3FD8-4612-8EB2-EEF168A499C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC79412-4D98-4D55-8075-DC1189CC9791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC79412-4D98-4D55-8075-DC1189CC9791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC79412-4D98-4D55-8075-DC1189CC9791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC79412-4D98-4D55-8075-DC1189CC9791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49EC9DB-A9AE-4410-A85E-01E14337BF01}
+	EndGlobalSection
+EndGlobal

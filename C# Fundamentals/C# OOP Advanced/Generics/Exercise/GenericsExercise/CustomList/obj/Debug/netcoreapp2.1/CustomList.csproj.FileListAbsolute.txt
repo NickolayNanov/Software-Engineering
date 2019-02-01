@@ -1,0 +1,22 @@
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.deps.json
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.json
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.dll
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.pdb
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfo.cs
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.dll
+D:\Softuni\C# Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.pdb
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.deps.json
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.dll
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\bin\Debug\netcoreapp2.1\CustomList.pdb
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.csprojAssemblyReference.cache
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.dll
+D:\Softuni\C# OOP Advanced\Generics\Exercise\GenericsExercise\CustomList\obj\Debug\netcoreapp2.1\CustomList.pdb

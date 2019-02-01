@@ -1,0 +1,11 @@
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\bin\Debug\netcoreapp2.1\AtributesTesting.deps.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\bin\Debug\netcoreapp2.1\AtributesTesting.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\bin\Debug\netcoreapp2.1\AtributesTesting.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\bin\Debug\netcoreapp2.1\AtributesTesting.dll
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\bin\Debug\netcoreapp2.1\AtributesTesting.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\obj\Debug\netcoreapp2.1\AtributesTesting.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\obj\Debug\netcoreapp2.1\AtributesTesting.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\obj\Debug\netcoreapp2.1\AtributesTesting.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\obj\Debug\netcoreapp2.1\AtributesTesting.dll
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\obj\Debug\netcoreapp2.1\AtributesTesting.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Lab\Reflection\AtributesTesting\obj\Debug\netcoreapp2.1\AtributesTesting.csprojAssemblyReference.cache

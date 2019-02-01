@@ -1,0 +1,10 @@
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\bin\Debug\netcoreapp2.1\Tagram.deps.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\bin\Debug\netcoreapp2.1\Tagram.runtimeconfig.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\bin\Debug\netcoreapp2.1\Tagram.runtimeconfig.dev.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\bin\Debug\netcoreapp2.1\Tagram.dll
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\bin\Debug\netcoreapp2.1\Tagram.pdb
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\obj\Debug\netcoreapp2.1\Tagram.csproj.CoreCompileInputs.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\obj\Debug\netcoreapp2.1\Tagram.AssemblyInfoInputs.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\obj\Debug\netcoreapp2.1\Tagram.AssemblyInfo.cs
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\obj\Debug\netcoreapp2.1\Tagram.dll
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Tagram\obj\Debug\netcoreapp2.1\Tagram.pdb

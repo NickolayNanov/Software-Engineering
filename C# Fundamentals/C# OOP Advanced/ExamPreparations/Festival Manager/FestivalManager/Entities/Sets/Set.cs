@@ -1,0 +1,90 @@
+﻿namespace FestivalManager.Entities.Sets
+{
+    using Contracts;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    public abstract class Set : ISet
+    {
+        private List<IPerformer> performers;
+        private List<ISong> songs;
+
+        protected Set(string name, TimeSpan maxDuration)
+        {
+            this.Name = name;
+            this.MaxDuration = maxDuration;
+
+            this.performers = new List<IPerformer>();
+            this.songs = new List<ISong>();
+        }
+
+        public string Name { get; }
+
+        public TimeSpan MaxDuration { get; }
+
+        public TimeSpan ActualDuration => new TimeSpan(this.Songs.Sum(s => s.Duration.Ticks));
+
+        public IReadOnlyCollection<IPerformer> Performers => this.performers.AsReadOnly();
+
+        public IReadOnlyCollection<ISong> Songs => this.songs.AsReadOnly();    
+
+        public void AddPerformer(IPerformer performer) => this.performers.Add(performer);
+
+        //TODO: Check
+        public void AddSong(ISong song)
+        {
+            if (song.Duration + this.ActualDuration > this.MaxDuration)
+            {
+                throw new InvalidOperationException("Song is over the set limit!");
+            }
+
+            this.songs.Add(song);
+        }
+
+        public bool CanPerform()
+        {
+            if (!this.Performers.Any())
+            {
+                return false;
+            }
+
+            if (!this.Songs.Any())
+            {
+                return false;
+            }
+
+            bool allPerformersHaveInsturments = this.performers.All(p => p.Instruments.Any());
+
+            if (!allPerformersHaveInsturments)
+            {
+                return false;
+            }
+
+            bool allPerformersHaveFunctioningInstruments = this.performers.All(p => p.Instruments.Any(i => !i.IsBroken));
+
+            if (!allPerformersHaveFunctioningInstruments)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+
+            sb.AppendLine(string.Join(", ", this.Performers));
+
+            foreach (var song in this.Songs)
+            {
+                sb.AppendLine($"-- {song}");
+            }
+
+            var result = sb.ToString();
+            return result;
+        }
+    }
+}

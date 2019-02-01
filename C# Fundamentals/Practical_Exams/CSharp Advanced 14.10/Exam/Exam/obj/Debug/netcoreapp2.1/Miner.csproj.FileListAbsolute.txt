@@ -1,0 +1,11 @@
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\bin\Debug\netcoreapp2.1\Miner.deps.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.dev.json
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\bin\Debug\netcoreapp2.1\Miner.dll
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\bin\Debug\netcoreapp2.1\Miner.pdb
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\obj\Debug\netcoreapp2.1\Miner.csprojAssemblyReference.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\obj\Debug\netcoreapp2.1\Miner.csproj.CoreCompileInputs.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\obj\Debug\netcoreapp2.1\Miner.AssemblyInfoInputs.cache
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\obj\Debug\netcoreapp2.1\Miner.AssemblyInfo.cs
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\obj\Debug\netcoreapp2.1\Miner.dll
+D:\Softuni\Practical_Exams\CSharp Advanced 14.10\Exam\Exam\obj\Debug\netcoreapp2.1\Miner.pdb

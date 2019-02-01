@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\bin\Debug\netcoreapp2.1\BoxOfT.deps.json
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.json
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\bin\Debug\netcoreapp2.1\BoxOfT.dll
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\bin\Debug\netcoreapp2.1\BoxOfT.pdb
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\obj\Debug\netcoreapp2.1\BoxOfT.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\obj\Debug\netcoreapp2.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfo.cs
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\obj\Debug\netcoreapp2.1\BoxOfT.dll
+D:\Softuni\C# Advanced\Generics\Lab\Generics\Generics\obj\Debug\netcoreapp2.1\BoxOfT.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Softuni\C#_Fundamentals\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

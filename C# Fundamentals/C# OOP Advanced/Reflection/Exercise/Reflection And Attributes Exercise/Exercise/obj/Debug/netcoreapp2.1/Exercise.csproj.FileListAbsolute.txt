@@ -1,0 +1,4 @@
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.csprojAssemblyReference.cache

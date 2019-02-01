@@ -1,0 +1,11 @@
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\bin\Debug\netcoreapp2.0\HarvestingFields.deps.json
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\bin\Debug\netcoreapp2.0\HarvestingFields.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\bin\Debug\netcoreapp2.0\HarvestingFields.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\bin\Debug\netcoreapp2.0\HarvestingFields.dll
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\bin\Debug\netcoreapp2.0\HarvestingFields.pdb
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\obj\Debug\netcoreapp2.0\HarvestingFields.csprojAssemblyReference.cache
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\obj\Debug\netcoreapp2.0\HarvestingFields.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\obj\Debug\netcoreapp2.0\HarvestingFields.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\obj\Debug\netcoreapp2.0\HarvestingFields.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\obj\Debug\netcoreapp2.0\HarvestingFields.dll
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\HarvestingFields\obj\Debug\netcoreapp2.0\HarvestingFields.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\bin\Debug\netcoreapp2.1\BarraksWars.deps.json
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\bin\Debug\netcoreapp2.1\BarraksWars.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\bin\Debug\netcoreapp2.1\BarraksWars.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\bin\Debug\netcoreapp2.1\BarraksWars.dll
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\bin\Debug\netcoreapp2.1\BarraksWars.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\obj\Debug\netcoreapp2.1\BarraksWars.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\obj\Debug\netcoreapp2.1\BarraksWars.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\obj\Debug\netcoreapp2.1\BarraksWars.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\obj\Debug\netcoreapp2.1\BarraksWars.dll
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\obj\Debug\netcoreapp2.1\BarraksWars.pdb
+D:\Softuni\C# OOP Advanced\Reflection\Exercise\Reflection And Attributes Exercise\BarraksWars\obj\Debug\netcoreapp2.1\BarraksWars.csprojAssemblyReference.cache

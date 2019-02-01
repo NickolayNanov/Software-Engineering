@@ -1,0 +1,10 @@
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\bin\Debug\netcoreapp2.0\_03BarracksFactory.deps.json
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\bin\Debug\netcoreapp2.0\_03BarracksFactory.runtimeconfig.json
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\bin\Debug\netcoreapp2.0\_03BarracksFactory.runtimeconfig.dev.json
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\bin\Debug\netcoreapp2.0\_03BarracksFactory.dll
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\bin\Debug\netcoreapp2.0\_03BarracksFactory.pdb
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\obj\Debug\netcoreapp2.0\_03BarracksFactory.csproj.CoreCompileInputs.cache
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\obj\Debug\netcoreapp2.0\_03BarracksFactory.AssemblyInfoInputs.cache
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\obj\Debug\netcoreapp2.0\_03BarracksFactory.AssemblyInfo.cs
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\obj\Debug\netcoreapp2.0\_03BarracksFactory.dll
+D:\Softuni\C# OOP Advanced\ReflectionTest\ConsoleApp1\_03BarracksFactory\obj\Debug\netcoreapp2.0\_03BarracksFactory.pdb
