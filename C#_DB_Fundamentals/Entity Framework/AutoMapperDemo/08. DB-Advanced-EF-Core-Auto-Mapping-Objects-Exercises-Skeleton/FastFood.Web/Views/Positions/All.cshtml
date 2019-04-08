@@ -1,0 +1,30 @@
+﻿@model IList<FastFood.Web.ViewModels.Positions.PositionsAllViewModel>
+
+@{
+    ViewData["Title"] = "All BiologyTopics";
+}
+<h1 class="text-center">All Categories</h1>
+<div class="box-body">
+    <table id="example1" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Номер</th>
+                <th>Име на темата</th>
+                <th>Последна оценка</th>
+                <th>Дата на писане</th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.B)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Created)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Specialist)</td>
+                    <td><a href="Doctors/Update/@item.Id">Update</a> | <a href="" onclick="Delete('@item.Id')">Delete</a></td>
+                </tr>
+            }
+    </table>
+</div>

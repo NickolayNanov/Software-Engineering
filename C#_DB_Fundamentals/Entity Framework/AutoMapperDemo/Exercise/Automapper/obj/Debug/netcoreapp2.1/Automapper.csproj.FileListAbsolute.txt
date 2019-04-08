@@ -1,0 +1,18 @@
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
+C:\Users\Stoyan\source\repos\CustomAutomapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\AutoMapperDemo\Exercise\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb

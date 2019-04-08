@@ -1,0 +1,11 @@
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\bin\Debug\netcoreapp2.2\XmlDemo.deps.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\bin\Debug\netcoreapp2.2\XmlDemo.runtimeconfig.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\bin\Debug\netcoreapp2.2\XmlDemo.runtimeconfig.dev.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\bin\Debug\netcoreapp2.2\XmlDemo.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\bin\Debug\netcoreapp2.2\XmlDemo.pdb
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\obj\Debug\netcoreapp2.2\XmlDemo.csprojAssemblyReference.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\obj\Debug\netcoreapp2.2\XmlDemo.csproj.CoreCompileInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\obj\Debug\netcoreapp2.2\XmlDemo.AssemblyInfoInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\obj\Debug\netcoreapp2.2\XmlDemo.AssemblyInfo.cs
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\obj\Debug\netcoreapp2.2\XmlDemo.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\XmlDemo\XmlDemo\obj\Debug\netcoreapp2.2\XmlDemo.pdb

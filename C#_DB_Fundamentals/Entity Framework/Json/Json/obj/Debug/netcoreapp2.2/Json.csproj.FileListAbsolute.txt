@@ -1,0 +1,11 @@
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\bin\Debug\netcoreapp2.2\Json.deps.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\bin\Debug\netcoreapp2.2\Json.runtimeconfig.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\bin\Debug\netcoreapp2.2\Json.runtimeconfig.dev.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\bin\Debug\netcoreapp2.2\Json.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\bin\Debug\netcoreapp2.2\Json.pdb
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\obj\Debug\netcoreapp2.2\Json.csprojAssemblyReference.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\obj\Debug\netcoreapp2.2\Json.csproj.CoreCompileInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\obj\Debug\netcoreapp2.2\Json.AssemblyInfoInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\obj\Debug\netcoreapp2.2\Json.AssemblyInfo.cs
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\obj\Debug\netcoreapp2.2\Json.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\Json\Json\obj\Debug\netcoreapp2.2\Json.pdb

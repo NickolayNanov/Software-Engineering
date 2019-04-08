@@ -1,0 +1,12 @@
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.deps.json
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.AssemblyInfoInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.AssemblyInfo.cs
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.csproj.CopyComplete
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\XML\Exercise\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb

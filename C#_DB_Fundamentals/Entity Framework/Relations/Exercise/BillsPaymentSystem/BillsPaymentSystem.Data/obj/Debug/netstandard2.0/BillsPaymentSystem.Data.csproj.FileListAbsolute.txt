@@ -1,0 +1,12 @@
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.AssemblyInfo.cs
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Data.deps.json
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Data.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Data.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.csproj.CopyComplete
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.pdb

@@ -1,0 +1,11 @@
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Nick\Softuni\C#_DB_Fundamentals\Entity Framework\PracticalExam\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

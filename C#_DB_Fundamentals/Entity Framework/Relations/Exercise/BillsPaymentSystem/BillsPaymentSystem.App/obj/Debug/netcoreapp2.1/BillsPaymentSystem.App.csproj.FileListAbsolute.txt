@@ -1,0 +1,16 @@
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.deps.json
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.runtimeconfig.json
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.runtimeconfig.dev.json
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.AssemblyInfoInputs.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.AssemblyInfo.cs
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csprojAssemblyReference.cache
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+D:\Softuni\C#_DB_Fundamentals\Entity Framework\Relations\Exercise\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csproj.CopyComplete
